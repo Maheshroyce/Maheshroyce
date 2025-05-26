@@ -10,7 +10,7 @@ I'm adept at writing clean, scalable, and maintainable code with a strong emphas
 -   🌱 I am currently learning and improving my skills in Next.js and advanced AWS services. I’m also aiming to enhance my expertise in full-stack development and prompt engineering.
 -   👯 I'm looking to collaborate on interesting frontend development projects, especially those focusing on user experience and clean architecture.
 -   💬 Ask me about web technologies, particularly React.js, or my experience with deep learning for malware classification.
--   📫 How to reach me: [maheswarr813@gmail.com](mailto:maheswarr813@gmail.com) or connect with me on [LinkedIn](www.linkedin.com/in/maheswared) 
+-   📫 How to reach me: [maheswarr813@gmail.com](mailto:maheswarr813@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/maheswared) 
 -   ⚡ Fun fact: I developed a deep learning-based malware classification framework using Convolutional Neural Networks (CNNs).
 
 ---
@@ -44,7 +44,7 @@ I'm adept at writing clean, scalable, and maintainable code with a strong emphas
 
 ### 🌐 Connect with me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/maheswared)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maheswared)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maheswarr813@gmail.com)
 
 ---
